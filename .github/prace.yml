@@ -1,0 +1,7 @@
+version: 1
+body:
+  patterns:
+    - '[\w\s]*'
+  error: The body can not be empty
+reviewers:
+  minimum: 1
