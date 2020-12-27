@@ -24,18 +24,15 @@ Remember to read both this *README* and the *REQUIREMENTS* before starting to wo
 
 ## Implementation 
 
-- Clone this repository. 
 - Develop as you would do in a normal project. 
 - Do not use copyright/third party libraries. 
-- Upload this project to a public or private repository in your account and invite [Bullrich](http://github.com/bullrich/) to it. 
+- Upload this project to a public or private repository in your account 
 
 ## Delivery 
 
 ### Before implementation 
 
 - Split the requirements into sub tasks and estimate the time it would take for each one. 
-- Inform  <javier.bullrich@innerspace.eu> about the estimations. 
-- Optionally, contact Javier Bullrich for requirements clarification. 
 
 ### Implementation 
 
