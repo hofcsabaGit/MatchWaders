@@ -59,5 +59,3 @@ Remember to read both this *README* and the *REQUIREMENTS* before starting to wo
 - Creativity 
 
 --- 
-
-Questions at any time to <javier.bullrich@innerspace.eu>
